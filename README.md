@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hani Fares</h1>
+<h1 align="center">Hi 👋, Soy Rafa</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+software+engineer+with+true+passion)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Transforma+sueños+en+código,+programa+tu+grandeza)](https://git.io/typing-svg)
 
 <img alt="Night Coding" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=100% height="300px" align="center"/>
 
@@ -19,12 +19,8 @@
 </p>
 
 
-## <img src="https://media.giphy.com/media/4tsJBJmfu6TB1O8l5x/giphy.gif" width="30px"> Challenge me
-<a href="https://stackoverflow.com/users/2931510/el-hani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2931510/el-hani" height="30" width="40" /></a>
-<a href="https://leetcode.com/el-hani/" target="blank"><img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/83facdeba5b924cb3b1a" alt="2931510/el-hani" height="40" width="40" /></a>
-<a href="https://cssbattle.dev/player/elhani" target="blank"><img align="center" src="https://cssbattle.dev/targets/100.png" alt="2931510/el-hani" height="40" width="40" /></a>
 
-<img alt="Night Coding" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300px" height="300px" align="right"/>
+
 
 ## <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages & Frameworks
 
