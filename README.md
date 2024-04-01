@@ -38,7 +38,7 @@
 
 <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-14354C.svg?logo=bootstrap&logoColor=white&color=mediumpurple"></a>
 <a href="https://flask.palletsprojects.com/en/2.1.x/"><img alt="Flask" src="https://img.shields.io/badge/Flask-14354C.svg?logo=flask&logoColor=black&color=white"></a>
-<a href="https://nestjs.com/"><img alt="nestjs" src="https://img.shields.io/badge/nestjs-14354C.svg?logo=nestjs&logoColor=black&color=#E85656"></a>
+<a href="https://nestjs.com/"><img alt="nestjs" src="https://img.shields.io/badge/nestjs-14354C.svg?logo=nestjs&logoColor=black&color=mediumred"></a>
 
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Software & Tools
