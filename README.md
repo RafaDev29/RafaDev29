@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1 align="center">¡Hola 👋, Soy Rafa!</h1>
+<h1 align="center">¡Hola 👋, Soy Rafael!</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=590&lines=%3E+Bievenido+a+mi+Portafolio+en+GitHub...!" alt="Typing SVG">
