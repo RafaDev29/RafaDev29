@@ -71,7 +71,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"></a>
  <a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer"><img alt="PM2" src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white"></a>
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"></a>
+
 
 </p>
 
