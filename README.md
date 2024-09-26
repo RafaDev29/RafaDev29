@@ -50,7 +50,6 @@
   <a href="https://expressjs.com/"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-14354C.svg?logo=express&logoColor=black"></a>
   <a href="https://nodejs.org/en/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-14354C.svg?logo=node.js&logoColor=black&color=darkgreen"></a>
   <a href="https://nestjs.com/"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-14354C.svg?logo=nestjs&logoColor=black&color=E0234E"></a>
-  <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/Django-14354C.svg?logo=django&logoColor=black&color=026239"></a>
   <a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-14354C.svg?logo=laravel&logoColor=black&color=orangered"></a>
 </p>
 
