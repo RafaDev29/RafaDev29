@@ -37,7 +37,7 @@
 <p align="center">
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-   <a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
+  
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"></a>
  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
   <a href="https://astro.build/" target="_blank" rel="noreferrer"><img alt="Astro" src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white"></a>
