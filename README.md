@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rafael Rossel Galarza
+# Rafael Andres Rossel Galarza
 
 **Backend Engineer · Node.js · NestJS · AWS**
 
