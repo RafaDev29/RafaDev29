@@ -13,7 +13,7 @@
 
 ### Sobre mí
 
-Desarrollador backend especializado en el ecosistema **Node.js**, con enfoque en arquitecturas escalables usando **NestJS** e infraestructura en **AWS**. Experiencia construyendo APIs REST, microservicios y pipelines de despliegue en la nube. También manejo el stack frontend con frameworks del ecosistema JavaScript/TypeScript como nextjs y vue.
+Desarrollador backend especializado en el ecosistema **Node.js**, con enfoque en arquitecturas escalables(DDD) usando **NestJS** e infraestructura en **AWS**. Experiencia construyendo APIs REST, microservicios y pipelines de despliegue en la nube. También manejo el stack frontend con frameworks del ecosistema JavaScript/TypeScript como nextjs y vue. 
 
 ---
 
