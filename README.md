@@ -4,7 +4,7 @@
 
 **Backend Engineer · Node.js · NestJS · AWS**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-andres-rossel-galarza-47b8bb214/)
+[![LinkedIn](https://www.linkedin.com/in/rosseldev/)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/rosselgalarzarafael)
 
 </div>
